@@ -1,7 +1,13 @@
 == Memeify
 
+<<<<<<< HEAD
 How to run:
 
 ``` bash
 rake memeify captions=path/to/captions.txt image_dir=path/to/images
 ```
+=======
+To run, type
+
+<tt>rake memeify captions=path/to/captions.txt image_dir=path/to/images"</tt>.
+>>>>>>> d396e38f5eb3c3acabe4237e2f363ca8d5b83bf9
