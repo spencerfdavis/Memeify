@@ -2,6 +2,4 @@
 
 How to run:
 
-``` bash
-rake memeify captions=path/to/captions.txt image_dir=path/to/images
-```
+<tt>rake memeify captions=path/to/captions.txt image_dir=path/to/images</tt>
